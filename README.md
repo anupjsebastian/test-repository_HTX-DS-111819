@@ -12,6 +12,7 @@ Gimme a test! (TEST)
 4. Check the status of your repository
 5. Add and commit your changes, then push back to _your_ repository
 6. This is a change, that is pointless.
+7. This is another change.
 
 ## Other To-Dos Today:
 

@@ -11,6 +11,7 @@ Gimme a test! (TEST)
 3. Add a file of some kind to your repository, or make changes to this readme
 4. Check the status of your repository
 5. Add and commit your changes, then push back to _your_ repository
+6. This is a change, that is pointless.
 
 ## Other To-Dos Today:
 
